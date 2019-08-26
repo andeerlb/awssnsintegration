@@ -1,0 +1,9 @@
+
+aws:
+  region: region
+  access-key: access-key
+  secret-key: secret-key
+spring:
+  h2:
+    console:
+      enabled: true

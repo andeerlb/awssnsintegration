@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "cloud.aws.credentials.useDefaultAwsCredentialsChain",
+      "type": "java.lang.String",
+      "description": "Description for cloud.aws.credentials.useDefaultAwsCredentialsChain."
+  }
+] }
